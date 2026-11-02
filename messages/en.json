@@ -1,0 +1,975 @@
+{
+  "Metadata": {
+    "siteName": "MOLARYA UZ",
+    "title": "MOLARYA UZ — Virtual Chemistry Lab & Learning Platform",
+    "titleTemplate": "%s · MOLARYA UZ",
+    "description": "Learn chemistry in Uzbek, Russian and English with virtual labs, interactive 3D molecules and an AI tutor.",
+    "keywords": "chemistry, virtual lab, AI tutor, periodic table, 3D molecules, chemistry education, Uzbekistan, EdTech",
+    "ogAlt": "MOLARYA UZ — virtual chemistry laboratory"
+  },
+  "Common": {
+    "brand": "MOLARYA UZ",
+    "tagline": "See chemistry, experiment and understand!",
+    "loading": "Loading...",
+    "login": "Sign in",
+    "register": "Create account",
+    "logout": "Sign out",
+    "email": "Email address",
+    "password": "Password",
+    "name": "Name",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "search": "Search",
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "back": "Back",
+    "home": "Home",
+    "demo": "Demo",
+    "sample": "Sample",
+    "optional": "optional",
+    "required": "required",
+    "viewAll": "View all",
+    "learnMore": "Learn more",
+    "comingSoon": "Coming soon",
+    "years": "{count, plural, one {# year} other {# years}}",
+    "minutes": "{count} min",
+    "lessons": "{count} lessons",
+    "demoNotice": "Demo mode: this interface is part of Phase 1 and the backend is not connected yet.",
+    "openInNewTab": "opens in a new tab"
+  },
+  "Locale": {
+    "label": "Interface language",
+    "uz": "O‘zbekcha",
+    "ru": "Русский",
+    "en": "English",
+    "switchTo": "Switch language to {locale}"
+  },
+  "A11y": {
+    "skipToContent": "Skip to main content",
+    "toggleTheme": "Toggle theme",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNavigation": "Main navigation",
+    "footerNavigation": "Site navigation",
+    "breadcrumb": "Breadcrumb"
+  },
+  "Nav": {
+    "home": "Home",
+    "features": "Features",
+    "forWhom": "For whom",
+    "experiments": "Experiments",
+    "howItWorks": "How it works",
+    "technology": "Technology",
+    "tools": "Tools",
+    "schoolTrial": "School trial",
+    "laboratory": "Laboratory",
+    "courses": "Courses",
+    "teachers": "For teachers",
+    "pricing": "Pricing",
+    "openLab": "Open laboratory",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "chemistry": "Chemistry",
+    "periodicTable": "Periodic table",
+    "molecules": "Molecules",
+    "aiTutor": "AI tutor",
+    "schools": "For schools",
+    "mobileTitle": "Navigation",
+    "mobileDescription": "Platform sections and quick links"
+  },
+  "Actions": {
+    "tryLab": "Try the laboratory",
+    "explorePlatform": "Explore the platform",
+    "viewLab": "Open the laboratory",
+    "startFree": "Start for free",
+    "contactSales": "Contact us for schools",
+    "choosePlan": "Choose a plan",
+    "openPeriodicTable": "Open the periodic table",
+    "exploreMolecules": "Explore molecules",
+    "askAi": "Ask the AI tutor",
+    "browseCourses": "Browse courses",
+    "backHome": "Back to home",
+    "sendMessage": "Send message",
+    "subscribe": "Subscribe",
+    "createAccount": "Create account",
+    "signIn": "Sign in",
+    "retry": "Try again",
+    "readMore": "Read more",
+    "viewCourse": "View course"
+  },
+  "Header": {
+    "login": "Sign in",
+    "cta": "Start for free"
+  },
+  "Footer": {
+    "tagline": "A modern virtual chemistry laboratory for students and teachers in Uzbekistan.",
+    "columns": {
+      "platform": "Platform",
+      "resources": "Resources",
+      "company": "Company",
+      "legal": "Legal"
+    },
+    "links": {
+      "features": "Features",
+      "lab": "Virtual laboratory",
+      "aiTutor": "AI tutor",
+      "periodicTable": "Periodic table",
+      "molecules": "3D molecules",
+      "courses": "Courses",
+      "teachers": "For teachers",
+      "schools": "For schools",
+      "about": "About us",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "pricing": "Pricing",
+      "privacy": "Privacy policy",
+      "terms": "Terms of use"
+    },
+    "newsletter": {
+      "title": "Stay in the loop",
+      "description": "Be the first to hear about new lab scenarios and learning materials.",
+      "emailPlaceholder": "Your email address",
+      "consent": "I agree to receive news and learning materials.",
+      "success": "Thank you! Your subscription was recorded in demo mode — no data was sent to a server.",
+      "error": "Please enter a valid email address."
+    },
+    "copyright": "© {year} MOLARYA UZ. All rights reserved.",
+    "madeIn": "Made in Uzbekistan, for education",
+    "legalNotice": "MOLARYA UZ is an educational platform. Virtual experiments do not replace real laboratory safety rules."
+  },
+  "Hero": {
+    "eyebrow": "A virtual chemistry lab built for Uzbekistan",
+    "titleBefore": "Discover chemistry",
+    "titleAccent": "in a new way",
+    "description": "Learn chemistry easily and engagingly with virtual laboratories, interactive 3D molecules and artificial intelligence.",
+    "primaryCta": "Try the laboratory",
+    "secondaryCta": "Explore the platform",
+    "trust": "The next generation of chemistry learning",
+    "badges": {
+      "safe": "Safe simulation",
+      "languages": "UZ · RU · EN",
+      "browser": "Works in your browser"
+    },
+    "visual": {
+      "labTitle": "Virtual laboratory",
+      "labSubtitle": "Neutralisation experiment",
+      "status": "Simulation active",
+      "material": "NaOH + HCl",
+      "beakerLabel": "Solution",
+      "ph": "pH",
+      "safeLabel": "Safe environment",
+      "aiLabel": "AI tutor",
+      "aiMessage": "Why did the indicator change colour?",
+      "moleculeLabel": "H₂O molecule",
+      "accuracy": "Approximate atomic arrangement"
+    }
+  },
+  "Stats": {
+    "eyebrow": "Platform capabilities",
+    "title": "All of chemistry on one platform",
+    "description": "A single learning environment that brings theory, visualisation and practice together.",
+    "note": "These figures describe platform capabilities, not user statistics.",
+    "items": {
+      "elements": {
+        "value": "118",
+        "label": "Chemical elements",
+        "description": "Interactive periodic table"
+      },
+      "languages": {
+        "value": "3",
+        "label": "Interface languages",
+        "description": "Uzbek, Russian and English"
+      },
+      "ai": {
+        "value": "24/7",
+        "label": "AI assistant",
+        "description": "Fast answers to your questions"
+      },
+      "safety": {
+        "value": "0",
+        "label": "Chemical risk",
+        "description": "A safe virtual environment"
+      }
+    }
+  },
+  "Features": {
+    "eyebrow": "Features",
+    "title": "Tools that bring learning to life",
+    "description": "Clear visualisation, safe practice and understandable explanations for every topic.",
+    "badge": "Platform core",
+    "items": {
+      "lab": {
+        "title": "Virtual laboratory",
+        "description": "Choose reagents and equipment, run experiments step by step — in a safe environment."
+      },
+      "ai": {
+        "title": "AI chemistry tutor",
+        "description": "Ask about a tricky topic and get explanations of formulas, rules and problems."
+      },
+      "molecules": {
+        "title": "3D molecules",
+        "description": "Rotate molecules, zoom in and explore the bonds between atoms."
+      },
+      "periodic": {
+        "title": "Periodic table",
+        "description": "118 elements, properties and electron configurations in one interactive table."
+      },
+      "courses": {
+        "title": "Courses and lessons",
+        "description": "Structured chemistry courses aligned with school and university curricula."
+      },
+      "analytics": {
+        "title": "Learning analytics",
+        "description": "Track your progress, quiz results and strengths over time."
+      }
+    }
+  },
+  "LabPreview": {
+    "eyebrow": "Virtual laboratory",
+    "title": "Experiment. Safely. Precisely. Clearly.",
+    "description": "Choose reagents, place equipment and observe the reaction as it unfolds. Every step comes with a chemical explanation.",
+    "badge": "Interface preview",
+    "note": "Sample scenario. All observations are modelled for learning and do not replace real laboratory results.",
+    "tabs": {
+      "acidBase": "Acid–base",
+      "precipitate": "Precipitate",
+      "gas": "Gas"
+    },
+    "sidebar": {
+      "materials": "Materials",
+      "equipment": "Equipment",
+      "steps": "Steps"
+    },
+    "materials": {
+      "naoh": "Sodium hydroxide",
+      "hcl": "Hydrochloric acid",
+      "indicator": "Phenolphthalein",
+      "water": "Distilled water"
+    },
+    "equipment": {
+      "beaker": "Beaker",
+      "pipette": "Pipette",
+      "flask": "Flask",
+      "sensor": "pH sensor"
+    },
+    "canvas": {
+      "title": "Workspace",
+      "experiment": "Neutralisation reaction",
+      "step": "Step 2/4",
+      "observation": "Observation",
+      "observationText": "The indicator turned pink and the pH moved closer to 7.",
+      "safe": "Safe mode"
+    },
+    "result": {
+      "title": "Equation and conclusion",
+      "equation": "HCl + NaOH → NaCl + H₂O",
+      "text": "A neutralisation reaction took place between the acid and the base, producing a salt and water."
+    },
+    "cta": "Learn more about the lab"
+  },
+  "AiPreview": {
+    "eyebrow": "AI chemistry tutor",
+    "title": "Ask about chemistry in your own language",
+    "description": "A learning assistant that breaks complex concepts into simple steps and adapts to your questions.",
+    "badge": "Sample conversation",
+    "userMessage": "Why does a water molecule have a bent shape?",
+    "aiMessage": "In a water molecule, the oxygen atom has two lone electron pairs. They push the hydrogen atoms together, reducing the H–O–H angle to about 104.5°. As a result, the molecule is bent rather than linear.",
+    "suggestions": {
+      "atom": "Explain atomic structure",
+      "bond": "What is a chemical bond?",
+      "periodic": "How does the periodic table work?",
+      "formula": "Explain chemical formulas"
+    },
+    "inputPlaceholder": "Write your chemistry question...",
+    "disclaimer": "AI answers are provided as a learning aid. Verify important information with a textbook or teacher.",
+    "cta": "Learn more about the AI tutor"
+  },
+  "Molecules": {
+    "eyebrow": "3D molecule lab",
+    "title": "Hold molecules in your hands",
+    "description": "See atoms and bonds in three dimensions. Rotate, scale and understand the structure.",
+    "badge": "Interactive 3D",
+    "tabs": {
+      "water": "Water",
+      "methane": "Methane",
+      "co2": "Carbon dioxide",
+      "ammonia": "Ammonia"
+    },
+    "info": {
+      "formula": "Formula",
+      "mass": "Molar mass",
+      "atoms": "Atom count",
+      "geometry": "Geometry",
+      "verified": "Reviewed structure",
+      "structure": "About the structure"
+    },
+    "data": {
+      "water": {
+        "name": "Water",
+        "description": "A polar molecule with a high boiling point due to hydrogen bonding.",
+        "geometry": "Bent"
+      },
+      "methane": {
+        "name": "Methane",
+        "description": "The main component of natural gas. Four C–H bonds are arranged tetrahedrally.",
+        "geometry": "Tetrahedral"
+      },
+      "co2": {
+        "name": "Carbon dioxide",
+        "description": "A linear molecule with two polar C=O bonds. A greenhouse gas.",
+        "geometry": "Linear"
+      },
+      "ammonia": {
+        "name": "Ammonia",
+        "description": "A pyramidal molecule with a lone electron pair on nitrogen. Highly soluble in water.",
+        "geometry": "Pyramidal"
+      }
+    },
+    "controls": {
+      "rotate": "Rotate",
+      "zoom": "Zoom",
+      "pan": "Pan",
+      "reset": "Reset view",
+      "fullscreen": "Fullscreen",
+      "fallback": "WebGL is unavailable on your device. Showing the 2D view."
+    },
+    "cta": "Open the molecule gallery"
+  },
+  "Periodic": {
+    "eyebrow": "Periodic table",
+    "title": "Explore elements interactively",
+    "description": "Select an element, view its properties and understand periodic trends visually.",
+    "badge": "118 elements",
+    "searchPlaceholder": "Element name or symbol...",
+    "allCategories": "All categories",
+    "categories": {
+      "alkali": "Alkali metals",
+      "alkaline": "Alkaline earth metals",
+      "transition": "Transition metals",
+      "postTransition": "Post-transition metals",
+      "metalloid": "Metalloids",
+      "nonmetal": "Nonmetals",
+      "halogen": "Halogens",
+      "noble": "Noble gases"
+    },
+    "detail": {
+      "atomicNumber": "Atomic number",
+      "symbol": "Symbol",
+      "name": "Name",
+      "mass": "Atomic mass",
+      "category": "Category",
+      "group": "Group",
+      "period": "Period",
+      "configuration": "Electron configuration",
+      "summary": "{name} is an element in the {category} category. Atomic number {number}, atomic mass {mass} u."
+    },
+    "hint": "Click an element card to open detailed information.",
+    "dataNote": "Data is based on a reviewed IUPAC subset. The full table will be completed from backend data in Phase 2.",
+    "cta": "Full periodic table"
+  },
+  "HowItWorks": {
+    "eyebrow": "How it works",
+    "title": "Four steps to understanding",
+    "description": "From choosing a topic to consolidating the result — a coherent and understandable learning path.",
+    "steps": {
+      "choose": {
+        "title": "Choose a topic",
+        "description": "Pick a course, class or free topic and set your learning goal."
+      },
+      "experiment": {
+        "title": "Try it in the lab",
+        "description": "Run a safe experiment with virtual equipment and observe every step."
+      },
+      "understand": {
+        "title": "Make sense of it with AI",
+        "description": "Ask a question and connect your observations to a chemical explanation."
+      },
+      "master": {
+        "title": "Consolidate the result",
+        "description": "Strengthen your knowledge with quizzes, assignments and analytics."
+      }
+    }
+  },
+  "Students": {
+    "eyebrow": "For students",
+    "title": "Don’t memorise chemistry — understand it",
+    "description": "Every experiment ends with a visible result and a clear explanation. Learn without fear of making mistakes.",
+    "benefits": {
+      "safe": {
+        "title": "Safe experimentation",
+        "description": "Practise anywhere without complex reagents or expensive equipment."
+      },
+      "pace": {
+        "title": "At your own pace",
+        "description": "Restart an experiment, slow it down and repeat until it clicks."
+      },
+      "visual": {
+        "title": "Visual understanding",
+        "description": "See formulas, 3D structures and reaction results in one place."
+      },
+      "help": {
+        "title": "Help when you need it",
+        "description": "The AI tutor answers any question in plain language."
+      }
+    },
+    "dashboard": {
+      "title": "Your learning",
+      "weekly": "Weekly activity",
+      "progress": "Course progress",
+      "lesson": "Next lesson",
+      "lessonName": "Chemical bonding",
+      "lab": "Upcoming experiment",
+      "labName": "Neutralisation reaction"
+    }
+  },
+  "Teachers": {
+    "eyebrow": "For teachers",
+    "title": "Less time preparing, more attention on explaining",
+    "description": "Manage your class, assign work and follow every student’s progress from a single dashboard.",
+    "benefits": {
+      "engage": {
+        "title": "Bring lessons to life",
+        "description": "Demonstrate complex reactions safely on the big screen."
+      },
+      "time": {
+        "title": "Save time",
+        "description": "Use ready-made scenarios, assignments and automatic checking."
+      },
+      "insight": {
+        "title": "See every student",
+        "description": "Track progress at group and individual level."
+      },
+      "manage": {
+        "title": "Manage assignments",
+        "description": "Send courses, quizzes and lab tasks from one place."
+      }
+    },
+    "dashboard": {
+      "title": "Class 9-A analytics",
+      "students": "Students",
+      "average": "Average score",
+      "active": "Active students",
+      "weekly": "Weekly performance",
+      "sample": "Sample data"
+    },
+    "cta": "Assess student mastery faster with modern teacher tooling"
+  },
+  "Schools": {
+    "eyebrow": "For schools and institutions",
+    "title": "One digital chemistry environment for the whole school",
+    "description": "Manage teachers, classes and resources centrally. A safe and cost-effective solution.",
+    "benefits": {
+      "safety": {
+        "title": "Safety first",
+        "description": "Reduce the risks of working with reagents and complex lab equipment."
+      },
+      "budget": {
+        "title": "Optimise your budget",
+        "description": "Cut spending on expensive consumables and equipment."
+      },
+      "deploy": {
+        "title": "Easy deployment",
+        "description": "Works in a browser — no software to install on every device."
+      },
+      "analytics": {
+        "title": "Centralised analytics",
+        "description": "Track reports at school, class and teacher level."
+      }
+    },
+    "cta": "Request a school presentation"
+  },
+  "Testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "How chemistry is learned now",
+    "description": "Sample perspectives on the platform concept from education stakeholders.",
+    "badge": "Sample content",
+    "disclaimer": "These testimonials were created for design demonstration only and are not real user opinions.",
+    "items": {
+      "student": {
+        "quote": "The virtual lab made the topic much easier to visualise. Now I picture the process instead of just memorising formulas.",
+        "name": "Sample student",
+        "role": "Grade 11 · Tashkent"
+      },
+      "teacher": {
+        "quote": "I can now show an experiment to the whole class at once. Explanations have become far more effective.",
+        "name": "Sample teacher",
+        "role": "Chemistry teacher"
+      },
+      "school": {
+        "quote": "A single platform can reduce reagent costs and improve the safety of the learning process.",
+        "name": "Sample school leader",
+        "role": "Educational institution"
+      }
+    }
+  },
+  "Pricing": {
+    "eyebrow": "Pricing",
+    "title": "A plan that fits every learner",
+    "description": "Start for free and expand as your needs grow. Special terms are available for schools.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save 20%",
+    "perMonth": "UZS / month",
+    "perStudent": "per student",
+    "custom": "Custom pricing",
+    "popular": "Most popular",
+    "billedYearly": "Billed yearly",
+    "note": "Prices are shown for demonstration and are not a final offer. VAT is agreed separately.",
+    "plans": {
+      "free": {
+        "name": "Starter",
+        "description": "Get to know the platform",
+        "price": "0",
+        "features": {
+          "one": "Periodic table and 3D molecules",
+          "two": "3 introductory experiments",
+          "three": "20 AI tutor questions",
+          "four": "1 introductory course",
+          "five": "Learning progress tracking"
+        },
+        "cta": "Start for free",
+        "yearlyPrice": "0"
+      },
+      "premium": {
+        "name": "Premium",
+        "description": "For students and independent learners",
+        "price": "79,000",
+        "features": {
+          "one": "All virtual laboratories",
+          "two": "Unlimited AI tutor conversations",
+          "three": "Full course library",
+          "four": "Personal progress analytics",
+          "five": "Achievements and certificates"
+        },
+        "cta": "Choose Premium",
+        "yearlyPrice": "63,200"
+      },
+      "school": {
+        "name": "School",
+        "description": "For classes and educational institutions",
+        "price": "custom",
+        "features": {
+          "one": "Teacher and class dashboards",
+          "two": "Assignment and quiz management",
+          "three": "School-level analytics",
+          "four": "Single licence and onboarding",
+          "five": "Priority technical support"
+        },
+        "cta": "Request a quote",
+        "yearlyPrice": "custom"
+      }
+    },
+    "footnote": "All plans include a 30-day trial and the option to cancel."
+  },
+  "Faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions",
+    "description": "Key answers about the platform, safety and deployment.",
+    "cta": "Still have questions?",
+    "questions": {
+      "what": {
+        "question": "What is MOLARYA UZ?",
+        "answer": "MOLARYA UZ is a virtual chemistry laboratory and learning platform for students, teachers and schools. It combines theory with interactive experiments, 3D molecules and an AI assistant."
+      },
+      "safe": {
+        "question": "Is the virtual laboratory safe?",
+        "answer": "Yes. Experiments are modelled in the browser and no real reagents are used. However, virtual results do not replace real laboratory safety rules."
+      },
+      "languages": {
+        "question": "Which languages are available?",
+        "answer": "The interface works in Uzbek (Latin), Russian and English. You can switch language from any page."
+      },
+      "school": {
+        "question": "How is the platform deployed in a school?",
+        "answer": "The school plan includes teacher and class dashboards, assignment management and centralised analytics. Deployment is phased and supported by onboarding."
+      },
+      "ai": {
+        "question": "Can I trust AI answers?",
+        "answer": "The AI tutor is a learning aid and can make mistakes. Important chemistry information should be verified with a textbook, teacher or reviewed scientific source."
+      },
+      "free": {
+        "question": "Can I use it for free?",
+        "answer": "Yes, the Starter plan is free for exploring the platform. The full laboratory and courses are available on Premium."
+      },
+      "devices": {
+        "question": "What devices are required?",
+        "answer": "A modern browser and an internet connection are enough. A WebGL-capable device is recommended for 3D molecules; a 2D view is provided without WebGL."
+      },
+      "data": {
+        "question": "How is data protected?",
+        "answer": "The platform follows minimal collection of user data and role-based access principles. The full privacy policy will be published with the backend integration."
+      }
+    }
+  },
+  "Cta": {
+    "eyebrow": "Start today",
+    "title": "Let’s discover chemistry together",
+    "description": "Virtual laboratory, interactive molecules and an AI assistant — all on one platform.",
+    "primary": "Start for free",
+    "secondary": "Contact us for schools",
+    "note": "No credit card required · 30-day trial"
+  },
+  "Pages": {
+    "about": {
+      "eyebrow": "About us",
+      "title": "Making chemistry education easier to understand",
+      "description": "MOLARYA UZ is being built to create a modern, safe and engaging chemistry environment for students in Uzbekistan.",
+      "metaTitle": "About us",
+      "metaDescription": "Discover the mission, values and approach of MOLARYA UZ to chemistry education in Uzbekistan."
+    },
+    "features": {
+      "eyebrow": "Features",
+      "title": "A complete toolkit for every lesson",
+      "description": "Laboratory, visualisation, courses and analytics — every stage of learning in one place.",
+      "metaTitle": "Platform features",
+      "metaDescription": "Explore the virtual laboratory, AI tutor, 3D molecules, periodic table and learning analytics."
+    },
+    "virtualLab": {
+      "eyebrow": "Virtual laboratory",
+      "title": "Real understanding in a safe environment",
+      "description": "Run experiments in your browser, observe every step and connect the result to a chemical equation.",
+      "metaTitle": "Virtual chemistry laboratory",
+      "metaDescription": "The MOLARYA UZ virtual lab: safe experiments, step-by-step scenarios and visual results."
+    },
+    "chemistry": {
+      "eyebrow": "Learning chemistry",
+      "title": "A coherent path from theory to practice",
+      "description": "Understand chemistry deeply with topics, visual models and virtual experiments.",
+      "metaTitle": "Learning chemistry",
+      "metaDescription": "Learn chemistry topics with interactive visualisation and virtual experiments."
+    },
+    "periodicTable": {
+      "eyebrow": "Periodic table",
+      "title": "The world of elements at a glance",
+      "description": "Search elements, filter by category and explore their properties interactively.",
+      "metaTitle": "Interactive periodic table",
+      "metaDescription": "Chemical elements, atomic masses, electron configurations and categories in an interactive periodic table."
+    },
+    "molecules": {
+      "eyebrow": "3D molecules",
+      "title": "See structure in three dimensions",
+      "description": "Rotate molecules, inspect atoms and explore bonds in space.",
+      "metaTitle": "3D molecule gallery",
+      "metaDescription": "Explore water, methane, carbon dioxide and ammonia molecules in interactive 3D."
+    },
+    "aiTutor": {
+      "eyebrow": "AI tutor",
+      "title": "An explanation that fits you",
+      "description": "Learn chemistry concepts in your own language, through clear steps.",
+      "metaTitle": "AI chemistry tutor",
+      "metaDescription": "An AI tutor that explains chemistry questions in Uzbek, Russian and English."
+    },
+    "courses": {
+      "eyebrow": "Courses",
+      "title": "A chemistry course for your goal",
+      "description": "From the school curriculum to university preparation — structured lessons and practical assignments.",
+      "metaTitle": "Chemistry courses",
+      "metaDescription": "Structured chemistry courses, lessons and practical assignments for school and university."
+    },
+    "teachers": {
+      "eyebrow": "For teachers",
+      "title": "Make your lessons even more effective",
+      "description": "Ready-made materials, class management and precise analytics on student progress.",
+      "metaTitle": "For teachers",
+      "metaDescription": "Class management, assignments, virtual laboratory and learning analytics for teachers."
+    },
+    "schools": {
+      "eyebrow": "For schools",
+      "title": "A modern chemistry environment for your school",
+      "description": "Bring the whole school into digital learning with a safe, cost-effective and centralised solution.",
+      "metaTitle": "School solutions",
+      "metaDescription": "Virtual chemistry laboratory, teacher dashboards and centralised analytics for schools."
+    },
+    "pricing": {
+      "eyebrow": "Pricing",
+      "title": "Transparent and flexible plans",
+      "description": "Start for free or request a tailored offer for your school.",
+      "metaTitle": "Pricing",
+      "metaDescription": "MOLARYA UZ plans: free start, Premium and special offers for schools."
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Have a question? Let’s talk",
+      "description": "We answer questions about partnerships, school deployment and the platform.",
+      "metaTitle": "Contact",
+      "metaDescription": "Contact the MOLARYA UZ team about partnerships, school deployment and support."
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Answers to all your questions",
+      "description": "Key information about the platform, safety, pricing and deployment.",
+      "metaTitle": "FAQ",
+      "metaDescription": "Frequently asked questions and answers about MOLARYA UZ."
+    },
+    "login": {
+      "eyebrow": "Welcome back",
+      "title": "Sign in to your account",
+      "description": "Sign in to continue your learning journey.",
+      "metaTitle": "Sign in",
+      "metaDescription": "Sign in to your MOLARYA UZ account."
+    },
+    "register": {
+      "eyebrow": "Start for free",
+      "title": "Create an account",
+      "description": "Register in minutes and try the virtual laboratory.",
+      "metaTitle": "Create account",
+      "metaDescription": "Create a free MOLARYA UZ account."
+    },
+    "forgotPassword": {
+      "eyebrow": "Password recovery",
+      "title": "Forgot your password?",
+      "description": "Enter your email address and we’ll send a recovery link.",
+      "metaTitle": "Password recovery",
+      "metaDescription": "Recover your MOLARYA UZ account password."
+    },
+    "resetPassword": {
+      "eyebrow": "New password",
+      "title": "Set a new password",
+      "description": "Choose a secure new password for your account.",
+      "metaTitle": "New password",
+      "metaDescription": "Set a new password for your MOLARYA UZ account."
+    },
+    "verifyEmail": {
+      "eyebrow": "Verification",
+      "title": "Verify your email address",
+      "description": "Open the link in your email to activate your account.",
+      "metaTitle": "Verify email",
+      "metaDescription": "Verify the email address for your MOLARYA UZ account."
+    },
+    "privacy": {
+      "eyebrow": "Privacy",
+      "title": "Privacy policy",
+      "description": "How MOLARYA UZ processes data and how it stays protected.",
+      "metaTitle": "Privacy policy",
+      "metaDescription": "MOLARYA UZ privacy policy — how data is collected and protected.",
+      "updated": "Last updated: January 1, 2026. Drafted for demo purposes.",
+      "intro": "This privacy policy is shown in demo mode and describes the pre-launch stage. A full data policy will be reviewed before launch.",
+      "sections": {
+        "collect": {
+          "title": "Data we collect",
+          "body": "In Phase 1 the site stores only technical data (your language choice via a cookie). Newsletter and contact forms are not sent to a real server and stay in your browser only. Account data processing will be introduced when the backend connects in Phase 2."
+        },
+        "use": {
+          "title": "How data is used",
+          "body": "Collected data is used only to run the platform, remember language settings and demonstrate features. We do not share your data with third parties for advertising."
+        },
+        "storage": {
+          "title": "Storage and security",
+          "body": "In demo mode data lives only in your browser (localStorage). Once the server side is connected, encryption and infrastructure compliant with the law of Uzbekistan will be applied."
+        },
+        "rights": {
+          "title": "Your rights",
+          "body": "You may request to view, correct or delete your data. Requests are accepted at hello@molarya.uz."
+        },
+        "contact": {
+          "title": "Contact",
+          "body": "For privacy questions, write to hello@molarya.uz."
+        }
+      },
+      "back": "Back to homepage"
+    },
+    "terms": {
+      "eyebrow": "Terms",
+      "title": "Terms of use",
+      "description": "Key rules for using the platform — a demo version before launch.",
+      "metaTitle": "Terms of use",
+      "metaDescription": "Terms of use for the MOLARYA UZ platform.",
+      "updated": "Last updated: January 1, 2026. Drafted for demo purposes.",
+      "intro": "These terms are provided in demo mode and will receive a final legal review after launch.",
+      "sections": {
+        "accept": {
+          "title": "Accepting the terms",
+          "body": "By using the platform you accept these terms. During the demo stage there are no payments or obligations."
+        },
+        "use": {
+          "title": "Using the platform",
+          "body": "The platform is provided free of charge in demo mode for educational purposes. Virtual experiments do not replace real laboratory safety rules."
+        },
+        "content": {
+          "title": "Content and data",
+          "body": "Courses, molecules and periodic table data are provided as sample content and reviewed for educational accuracy. Data is used primarily for learning purposes."
+        },
+        "ip": {
+          "title": "Intellectual property",
+          "body": "The design, code and materials on the site belong to MOLARYA UZ. Personal educational use is allowed; commercial copying is prohibited."
+        },
+        "disclaimer": {
+          "title": "Limitation of liability",
+          "body": "The platform is provided \"as is\". During the demo stage, downtime and content changes may occur."
+        },
+        "contact": {
+          "title": "Contact",
+          "body": "Questions about these terms: hello@molarya.uz."
+        }
+      },
+      "back": "Back to homepage"
+    }
+  },
+  "About": {
+    "missionEyebrow": "Our mission",
+    "missionTitle": "Every student can understand chemistry",
+    "missionText": "For many people, chemistry looks like a collection of difficult formulas and intimidating symbols. We want to turn it into a science you can see, try and understand. MOLARYA UZ is built on that idea.",
+    "values": {
+      "clarity": {
+        "title": "Clarity",
+        "description": "Every concept is presented simply, coherently and with verified information."
+      },
+      "safety": {
+        "title": "Safety",
+        "description": "The virtual environment creates a safe space for experimentation."
+      },
+      "access": {
+        "title": "Access for everyone",
+        "description": "Three languages, browser-based access and a comfortable interface on suitable devices."
+      }
+    },
+    "approachEyebrow": "Our approach",
+    "approachTitle": "Built for local needs",
+    "approachText": "The interface, content and learning scenarios are designed with the needs of schools and higher education institutions in Uzbekistan in mind. Grounded in international scientific standards, the platform adapts to the local curriculum."
+  },
+  "CourseCatalog": {
+    "badge": "Sample courses",
+    "note": "Courses are presented for the Phase 1 demo. The full catalogue and lesson content will be added in the next phase.",
+    "lessons": "{count} lessons",
+    "duration": "{count} hours",
+    "level": "Level",
+    "levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "sample": "Sample",
+    "viewCourse": "View course",
+    "outcomes": "What you will learn",
+    "syllabus": "Course syllabus",
+    "overview": "About the course",
+    "enroll": "Enrol in course",
+    "back": "All courses",
+    "notFound": "Course not found",
+    "notFoundDescription": "The course you are looking for does not exist or has been removed.",
+    "demoNotice": "Enrolment is not available in demo mode. Courses will open after you create an account."
+  },
+  "Contact": {
+    "formTitle": "Send a message",
+    "formDescription": "Fill in the form — your message will be sent through your email app.",
+    "name": "Full name",
+    "namePlaceholder": "First and last name",
+    "email": "Email address",
+    "emailPlaceholder": "name@example.com",
+    "role": "Who are you writing as?",
+    "roles": {
+      "student": "Student",
+      "teacher": "Teacher",
+      "school": "School / institution",
+      "other": "Other"
+    },
+    "message": "Message",
+    "messagePlaceholder": "Write your question or suggestion...",
+    "consent": "I agree to the processing of my data to respond to this request.",
+    "submit": "Send message",
+    "success": "Your email app has opened. If it did not, please write to hello@molarya.uz.",
+    "demoNotice": "For now the form works via email; the contact API will be connected in Phase 2.",
+    "validation": {
+      "name": "Enter at least 2 characters.",
+      "email": "Enter a valid email address.",
+      "message": "Enter at least 10 characters.",
+      "consent": "Tick the consent box to continue."
+    },
+    "info": {
+      "emailTitle": "Email",
+      "email": "hello@molarya.uz",
+      "locationTitle": "Location",
+      "location": "Tashkent, Uzbekistan",
+      "hoursTitle": "Office hours",
+      "hours": "Monday–Friday, 09:00–18:00 (UTC+5)"
+    }
+  },
+  "Auth": {
+    "loginTitle": "Sign in",
+    "loginDescription": "Enter your email address and password.",
+    "emailPlaceholder": "name@example.com",
+    "passwordPlaceholder": "Your password",
+    "confirmPassword": "Confirm password",
+    "forgotPassword": "Forgot your password?",
+    "remember": "Remember me",
+    "submitLogin": "Sign in",
+    "noAccount": "Don’t have an account?",
+    "createAccount": "Create one",
+    "registerTitle": "Create an account",
+    "registerDescription": "Start for free. No credit card required.",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "First and last name",
+    "roleLabel": "Choose your role",
+    "roles": {
+      "student": "Student",
+      "teacher": "Teacher"
+    },
+    "terms": "I agree to the terms of use and privacy policy.",
+    "submitRegister": "Create account",
+    "hasAccount": "Already have an account?",
+    "signIn": "Sign in",
+    "or": "or",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithTelegram": "Continue with Telegram",
+    "demoNotice": "Demo mode: authentication will be connected in Phase 2. This form only validates input.",
+    "loginSuccess": "Demo: sign-in request accepted. The backend is not connected yet.",
+    "registerSuccess": "Demo: registration request accepted. The backend is not connected yet.",
+    "forgotTitle": "Reset password",
+    "forgotDescription": "We’ll send a recovery link to your email.",
+    "sendResetLink": "Send reset link",
+    "forgotSuccess": "Demo: recovery request recorded. The backend is not connected yet.",
+    "backToLogin": "Back to sign in",
+    "resetTitle": "New password",
+    "resetDescription": "Choose a secure password with at least 8 characters.",
+    "newPassword": "New password",
+    "submitReset": "Update password",
+    "resetSuccess": "Demo: password update request recorded.",
+    "verifyTitle": "Verify your email",
+    "verifyDescription": "We assume a verification link was sent to {email}.",
+    "verifyHint": "Didn’t receive it? Check your spam folder or resend the link.",
+    "resend": "Resend link",
+    "resendSuccess": "Demo: resend request recorded.",
+    "validation": {
+      "email": "Enter a valid email address.",
+      "password": "Password must be at least 8 characters.",
+      "passwordMatch": "Passwords must match.",
+      "name": "Enter at least 2 characters.",
+      "terms": "Accept the terms to continue."
+    }
+  },
+  "NotFound": {
+    "eyebrow": "Error 404",
+    "title": "This page could not be found",
+    "description": "The page may have been moved, renamed or may never have existed.",
+    "cta": "Back to home",
+    "secondary": "Contact us"
+  },
+  "Error": {
+    "eyebrow": "Unexpected error",
+    "title": "Something went wrong",
+    "description": "There was a problem loading the page. Try again or return to the homepage.",
+    "retry": "Try again",
+    "cta": "Home"
+  },
+  "Loading": {
+    "title": "Page is loading",
+    "description": "Please wait a few seconds..."
+  },
+  "CourseDetail": {
+    "notFound": "Course not found",
+    "back": "All courses",
+    "overview": "About the course",
+    "outcomes": "What you will learn",
+    "syllabus": "Course syllabus",
+    "enroll": "Enrol in course",
+    "demoNotice": "Enrolment is unavailable in demo mode. Create an account to explore the platform.",
+    "metaDescription": "{title} — a MOLARYA UZ chemistry course. {description}"
+  }
+}

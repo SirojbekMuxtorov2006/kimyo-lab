@@ -1,0 +1,975 @@
+{
+  "Metadata": {
+    "siteName": "MOLARYA UZ",
+    "title": "MOLARYA UZ — Virtual kimyo laboratoriyasi va ta’lim platformasi",
+    "titleTemplate": "%s · MOLARYA UZ",
+    "description": "Virtual laboratoriyalar, interaktiv 3D molekulalar va AI repetitor yordamida kimyoni o‘zbek, rus va ingliz tillarida o‘rganing.",
+    "keywords": "kimyo, virtual laboratoriya, AI repetitor, davriy jadval, 3D molekulalar, kimyo ta’limi, O‘zbekiston, EdTech",
+    "ogAlt": "MOLARYA UZ — virtual kimyo laboratoriyasi"
+  },
+  "Common": {
+    "brand": "MOLARYA UZ",
+    "tagline": "Kimyoni ko‘r, tajriba qil va tushun!",
+    "loading": "Yuklanmoqda...",
+    "login": "Kirish",
+    "register": "Ro‘yxatdan o‘tish",
+    "logout": "Chiqish",
+    "email": "Elektron pochta",
+    "password": "Parol",
+    "name": "Ism",
+    "language": "Til",
+    "theme": "Mavzu",
+    "light": "Yorug‘",
+    "dark": "Tungi",
+    "system": "Tizim",
+    "search": "Qidirish",
+    "close": "Yopish",
+    "cancel": "Bekor qilish",
+    "save": "Saqlash",
+    "submit": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "back": "Orqaga",
+    "home": "Bosh sahifa",
+    "demo": "Demo",
+    "sample": "Namunaviy",
+    "optional": "ixtiyoriy",
+    "required": "majburiy",
+    "viewAll": "Barchasini ko‘rish",
+    "learnMore": "Batafsil",
+    "comingSoon": "Tez orada",
+    "years": "{count, plural, one {# yil} other {# yil}}",
+    "minutes": "{count} daqiqa",
+    "lessons": "{count} dars",
+    "demoNotice": "Demo rejimi: bu interfeys Phase 1 doirasida ishlab chiqilgan, backend hali ulanmagan.",
+    "openInNewTab": "yangi oynada ochiladi"
+  },
+  "Locale": {
+    "label": "Interfeys tili",
+    "uz": "O‘zbekcha",
+    "ru": "Русский",
+    "en": "English",
+    "switchTo": "Tilni {locale} ga o‘zgartirish"
+  },
+  "A11y": {
+    "skipToContent": "Asosiy kontentga o‘tish",
+    "toggleTheme": "Mavzuni almashtirish",
+    "openMenu": "Menyuni ochish",
+    "closeMenu": "Menyuni yopish",
+    "mainNavigation": "Asosiy navigatsiya",
+    "footerNavigation": "Sayt navigatsiyasi",
+    "breadcrumb": "Navigatsiya yo‘li"
+  },
+  "Nav": {
+    "home": "Bosh sahifa",
+    "features": "Imkoniyatlar",
+    "forWhom": "Kimlar uchun",
+    "experiments": "Tajribalar",
+    "howItWorks": "Qanday ishlaydi",
+    "technology": "Texnologiya",
+    "tools": "Vositalar",
+    "schoolTrial": "Maktab sinovi",
+    "laboratory": "Laboratoriya",
+    "courses": "Kurslar",
+    "teachers": "O‘qituvchilar",
+    "pricing": "Narxlar",
+    "openLab": "Laboratoriyani ochish",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "faq": "Savol-javob",
+    "chemistry": "Kimyo",
+    "periodicTable": "Davriy jadval",
+    "molecules": "Molekulalar",
+    "aiTutor": "AI repetitor",
+    "schools": "Maktablar",
+    "mobileTitle": "Navigatsiya",
+    "mobileDescription": "Platforma bo‘limlari va tezkor havolalar"
+  },
+  "Actions": {
+    "tryLab": "Laboratoriyani sinab ko‘rish",
+    "explorePlatform": "Platformani o‘rganish",
+    "viewLab": "Laboratoriyani ko‘rish",
+    "startFree": "Bepul boshlash",
+    "contactSales": "Maktab uchun bog‘lanish",
+    "choosePlan": "Tarifni tanlash",
+    "openPeriodicTable": "Davriy jadvalni ochish",
+    "exploreMolecules": "Molekulalarni o‘rganish",
+    "askAi": "AI repetitordan so‘rash",
+    "browseCourses": "Kurslarni ko‘rish",
+    "backHome": "Bosh sahifaga qaytish",
+    "sendMessage": "Xabar yuborish",
+    "subscribe": "Obuna bo‘lish",
+    "createAccount": "Hisob yaratish",
+    "signIn": "Hisobga kirish",
+    "retry": "Qayta urinish",
+    "readMore": "Batafsil o‘qish",
+    "viewCourse": "Kursni ko‘rish"
+  },
+  "Header": {
+    "login": "Kirish",
+    "cta": "Bepul boshlash"
+  },
+  "Footer": {
+    "tagline": "O‘zbekiston o‘quvchilari va o‘qituvchilari uchun zamonaviy virtual kimyo laboratoriyasi.",
+    "columns": {
+      "platform": "Platforma",
+      "resources": "Resurslar",
+      "company": "Kompaniya",
+      "legal": "Huquqiy"
+    },
+    "links": {
+      "features": "Imkoniyatlar",
+      "lab": "Virtual laboratoriya",
+      "aiTutor": "AI repetitor",
+      "periodicTable": "Davriy jadval",
+      "molecules": "3D molekulalar",
+      "courses": "Kurslar",
+      "teachers": "O‘qituvchilar uchun",
+      "schools": "Maktablar uchun",
+      "about": "Biz haqimizda",
+      "contact": "Aloqa",
+      "faq": "Savol-javob",
+      "pricing": "Narxlar",
+      "privacy": "Maxfiylik siyosati",
+      "terms": "Foydalanish shartlari"
+    },
+    "newsletter": {
+      "title": "Yangiliklardan xabardor bo‘ling",
+      "description": "Yangi laboratoriya ssenariylari va o‘quv materiallari haqida birinchi bo‘lib biling.",
+      "emailPlaceholder": "Elektron pochtangiz",
+      "consent": "Yangiliklar va o‘quv materiallarini olishga roziman.",
+      "success": "Rahmat! Demo rejimida obuna qayd etildi — ma’lumot serverga yuborilmadi.",
+      "error": "Iltimos, to‘g‘ri elektron pochta manzilini kiriting."
+    },
+    "copyright": "© {year} MOLARYA UZ. Barcha huquqlar himoyalangan.",
+    "madeIn": "O‘zbekistonda, ta’lim uchun yaratilgan",
+    "legalNotice": "MOLARYA UZ — ta’lim platformasi. Virtual tajribalar real laboratoriya xavfsizligi qoidalarini almashtirmaydi."
+  },
+  "Hero": {
+    "eyebrow": "O‘zbekiston uchun virtual kimyo laboratoriyasi",
+    "titleBefore": "Kimyoni yangi usulda",
+    "titleAccent": "kashf eting",
+    "description": "Virtual laboratoriyalar, interaktiv 3D molekulalar va sun’iy intellekt yordamida kimyoni oson va qiziqarli o‘rganing.",
+    "primaryCta": "Laboratoriyani sinab ko‘rish",
+    "secondaryCta": "Platformani o‘rganish",
+    "trust": "Kimyo ta’limining yangi avlodi",
+    "badges": {
+      "safe": "Xavfsiz simulyatsiya",
+      "languages": "UZ · RU · EN",
+      "browser": "Brauzerda ishlaydi"
+    },
+    "visual": {
+      "labTitle": "Virtual laboratoriya",
+      "labSubtitle": "Neytrallash tajribasi",
+      "status": "Simulyatsiya faol",
+      "material": "NaOH + HCl",
+      "beakerLabel": "Eritma",
+      "ph": "pH",
+      "safeLabel": "Xavfsiz muhit",
+      "aiLabel": "AI repetitor",
+      "aiMessage": "Nega indikator rangi o‘zgardi?",
+      "moleculeLabel": "H₂O molekulasi",
+      "accuracy": "Atomlarning taxminiy joylashuvi"
+    }
+  },
+  "Stats": {
+    "eyebrow": "Platforma imkoniyatlari",
+    "title": "Bir platformada butun kimyo",
+    "description": "Nazariya, vizualizatsiya va amaliyotni birlashtirgan yagona o‘quv muhiti.",
+    "note": "Ko‘rsatkichlar platforma imkoniyatlarini ifodalaydi, foydalanuvchi statistikasi emas.",
+    "items": {
+      "elements": {
+        "value": "118",
+        "label": "Kimyoviy element",
+        "description": "Interaktiv davriy jadval"
+      },
+      "languages": {
+        "value": "3",
+        "label": "Interfeys tili",
+        "description": "O‘zbek, rus va ingliz"
+      },
+      "ai": {
+        "value": "24/7",
+        "label": "AI yordamchi",
+        "description": "Savollarga tezkor tushuntirish"
+      },
+      "safety": {
+        "value": "0",
+        "label": "Kimyoviy xavf",
+        "description": "Xavfsiz virtual muhit"
+      }
+    }
+  },
+  "Features": {
+    "eyebrow": "Imkoniyatlar",
+    "title": "O‘rganishni jonlantiradigan vositalar",
+    "description": "Har bir mavzu uchun ko‘rgazmali vizualizatsiya, xavfsiz amaliyot va tushunarli tushuntirish.",
+    "badge": "Platforma yadrosi",
+    "items": {
+      "lab": {
+        "title": "Virtual laboratoriya",
+        "description": "Reaktiv va jihozlarni tanlang, bosqichma-bosqich tajribalar o‘tkazing — xavfsiz muhitda."
+      },
+      "ai": {
+        "title": "AI kimyo repetitori",
+        "description": "Tushunarsiz mavzuni so‘rang: formulalar, qoidalar va masalalar bo‘yicha tushuntirish oling."
+      },
+      "molecules": {
+        "title": "3D molekulalar",
+        "description": "Molekulalarni aylantiring, yaqinlashtiring va atomlar orasidagi bog‘lanishlarni o‘rganing."
+      },
+      "periodic": {
+        "title": "Davriy jadval",
+        "description": "118 element, xossalar va elektron konfiguratsiyalar — bir interaktiv jadvalda."
+      },
+      "courses": {
+        "title": "Kurslar va darslar",
+        "description": "Maktab va universitet dasturiga moslashgan tuzilgan kimyo kurslari."
+      },
+      "analytics": {
+        "title": "O‘quv tahlili",
+        "description": "O‘zlashtirish dinamikasi, test natijalari va kuchli tomonlaringizni kuzatib boring."
+      }
+    }
+  },
+  "LabPreview": {
+    "eyebrow": "Virtual laboratoriya",
+    "title": "Tajriba qiling. Xavfsiz. Aniq. Tushunarli.",
+    "description": "Reaktivlarni tanlang, jihozlarni joylashtiring va reaksiya jarayonini kuzating. Har bir qadam kimyoviy tushuntirish bilan birga keladi.",
+    "badge": "Interfeys ko‘rinishi",
+    "note": "Namunaviy ssenariy. Barcha kuzatuvlar o‘quv maqsadida modellashtirilgan va real laboratoriya natijalarini almashtirmaydi.",
+    "tabs": {
+      "acidBase": "Kislota–asos",
+      "precipitate": "Cho‘kma",
+      "gas": "Gaz"
+    },
+    "sidebar": {
+      "materials": "Materiallar",
+      "equipment": "Jihozlar",
+      "steps": "Qadamlar"
+    },
+    "materials": {
+      "naoh": "Natrium gidroksid",
+      "hcl": "Xlorid kislota",
+      "indicator": "Fenolftalein",
+      "water": "Distillangan suv"
+    },
+    "equipment": {
+      "beaker": "Stakan",
+      "pipette": "Pipetka",
+      "flask": "Kolba",
+      "sensor": "pH sensor"
+    },
+    "canvas": {
+      "title": "Tajriba maydoni",
+      "experiment": "Neytrallash reaksiyasi",
+      "step": "Qadam 2/4",
+      "observation": "Kuzatuv",
+      "observationText": "Indikator rangi pushti tomonga o‘zgardi, pH ko‘rsatkichi 7 ga yaqinlashdi.",
+      "safe": "Xavfsiz rejim"
+    },
+    "result": {
+      "title": "Tenglama va xulosa",
+      "equation": "HCl + NaOH → NaCl + H₂O",
+      "text": "Kislota va asos o‘rtasida neytrallash reaksiyasi sodir bo‘ldi. Natijada tuz va suv hosil bo‘ldi."
+    },
+    "cta": "Laboratoriya haqida batafsil"
+  },
+  "AiPreview": {
+    "eyebrow": "AI kimyo repetitori",
+    "title": "Kimyoni o‘z tilingizda so‘rang",
+    "description": "Murakkab tushunchalarni sodda qadamlarga bo‘lib tushuntiruvchi, savollaringizga moslashadigan o‘quv yordamchisi.",
+    "badge": "Namunaviy suhbat",
+    "userMessage": "Nega suv molekulasi burchakli shaklga ega?",
+    "aiMessage": "Suv molekulasida kislorod atomi ikkita yolg‘iz elektron juftiga ega. Ular vodorod atomlarini siqib, H–O–H burchagini taxminan 104,5° ga keltiradi. Shu sababli molekula chiziqli emas, burchakli shaklga ega.",
+    "suggestions": {
+      "atom": "Atom tuzilishini tushuntir",
+      "bond": "Kimyoviy bog‘lanish nima?",
+      "periodic": "Davriy jadval qanday ishlaydi?",
+      "formula": "Formulalarni tushuntir"
+    },
+    "inputPlaceholder": "Kimyoviy savolingizni yozing...",
+    "disclaimer": "AI javoblari o‘quv yordamchisi sifatida taqdim etiladi. Muhim ma’lumotlarni darslik yoki o‘qituvchi bilan tekshiring.",
+    "cta": "AI repetitor haqida"
+  },
+  "Molecules": {
+    "eyebrow": "3D molekula laboratoriyasi",
+    "title": "Molekulalarni qo‘lingizda ushlang",
+    "description": "Atomlar va bog‘lanishlarni uch o‘lchamda ko‘ring. Aylantiring, masshtablang va tuzilishni tushuning.",
+    "badge": "Interaktiv 3D",
+    "tabs": {
+      "water": "Suv",
+      "methane": "Metan",
+      "co2": "Karbonat angidrid",
+      "ammonia": "Ammiak"
+    },
+    "info": {
+      "formula": "Formula",
+      "mass": "Molyar massa",
+      "atoms": "Atomlar soni",
+      "geometry": "Geometriya",
+      "verified": "Tekshirilgan tuzilma",
+      "structure": "Tuzilish haqida"
+    },
+    "data": {
+      "water": {
+        "name": "Suv",
+        "description": "Qutbli molekula. Vodorod bog‘lanishlari tufayli yuqori qaynash temperaturasiga ega.",
+        "geometry": "Burchakli"
+      },
+      "methane": {
+        "name": "Metan",
+        "description": "Tabiiy gazning asosiy komponenti. To‘rtta C–H bog‘lanishi tetraedrik joylashgan.",
+        "geometry": "Tetraedrik"
+      },
+      "co2": {
+        "name": "Karbonat angidrid",
+        "description": "Ikki qutbli C=O bog‘lanishidan iborat chiziqli molekula. Issiqxona gazi.",
+        "geometry": "Chiziqli"
+      },
+      "ammonia": {
+        "name": "Ammiak",
+        "description": "Azot atomida yolg‘iz elektron jufti bor piramidal molekula. Suvda yaxshi eriydi.",
+        "geometry": "Piramidal"
+      }
+    },
+    "controls": {
+      "rotate": "Aylantirish",
+      "zoom": "Masshtablash",
+      "pan": "Siljitish",
+      "reset": "Ko‘rinishni tiklash",
+      "fullscreen": "To‘liq ekran",
+      "fallback": "Qurilmangizda WebGL mavjud emas. 2D ko‘rinish ko‘rsatilmoqda."
+    },
+    "cta": "Molekula galereyasini ochish"
+  },
+  "Periodic": {
+    "eyebrow": "Davriy jadval",
+    "title": "Elementlarni interaktiv o‘rganing",
+    "description": "Elementni tanlang, xossalarini ko‘ring va davriy qonuniyatlarni vizual tarzda tushuning.",
+    "badge": "118 element",
+    "searchPlaceholder": "Element nomi yoki belgisi...",
+    "allCategories": "Barcha toifalar",
+    "categories": {
+      "alkali": "Ishqoriy metallar",
+      "alkaline": "Ishqoriy-yer metallari",
+      "transition": "O‘tish metallari",
+      "postTransition": "Post-o‘tish metallari",
+      "metalloid": "Yarim metallar",
+      "nonmetal": "Nometallar",
+      "halogen": "Galogenlar",
+      "noble": "Olijanob gazlar"
+    },
+    "detail": {
+      "atomicNumber": "Atom raqami",
+      "symbol": "Belgi",
+      "name": "Nomi",
+      "mass": "Atom massasi",
+      "category": "Toifa",
+      "group": "Guruh",
+      "period": "Davr",
+      "configuration": "Elektron konfiguratsiyasi",
+      "summary": "{name} — {category} toifasiga kiruvchi element. Atom raqami {number}, atom massasi {mass} a.m.u."
+    },
+    "hint": "Element kartasini bosing — batafsil ma’lumot ochiladi.",
+    "dataNote": "Ma’lumotlar IUPAC qiymatlariga asoslangan namunaviy to‘plamdan olingan. To‘liq jadval Phase 2 da backend ma’lumotlari bilan to‘ldiriladi.",
+    "cta": "To‘liq davriy jadval"
+  },
+  "HowItWorks": {
+    "eyebrow": "Qanday ishlaydi",
+    "title": "To‘rt qadamda tushunishga",
+    "description": "Mavzuni tanlashdan natijani mustahkamlashgacha — izchil va tushunarli o‘quv yo‘li.",
+    "steps": {
+      "choose": {
+        "title": "Mavzuni tanlang",
+        "description": "Kurs, sinf yoki erkin mavzuni tanlang va o‘quv maqsadingizni belgilang."
+      },
+      "experiment": {
+        "title": "Laboratoriyada sinab ko‘ring",
+        "description": "Virtual jihozlar bilan xavfsiz tajriba o‘tkazing va har bir qadamni kuzating."
+      },
+      "understand": {
+        "title": "AI bilan tushuning",
+        "description": "Savol bering va kuzatuvlaringizni kimyoviy tushuntirish bilan bog‘lang."
+      },
+      "master": {
+        "title": "Natijani mustahkamlang",
+        "description": "Test, topshiriq va tahlillar orqali bilimni mustahkamlang."
+      }
+    }
+  },
+  "Students": {
+    "eyebrow": "O‘quvchilar uchun",
+    "title": "Kimyoni yodlamang — tushuning",
+    "description": "Har bir tajriba ko‘rinadigan natija va tushunarli izoh bilan tugaydi. Xato qilishdan qo‘rqmasdan o‘rganing.",
+    "benefits": {
+      "safe": {
+        "title": "Xavfsiz tajriba",
+        "description": "Murakkab reaktivlar va qimmat jihozlarsiz, istalgan joyda amaliyot qiling."
+      },
+      "pace": {
+        "title": "O‘z tezligingizda",
+        "description": "Tajribani qayta boshlang, sekinlashtiring va tushunmaguningizcha takrorlang."
+      },
+      "visual": {
+        "title": "Ko‘rgazmali tushuncha",
+        "description": "Formulalar, 3D tuzilmalar va reaksiya natijalarini bir joyda ko‘ring."
+      },
+      "help": {
+        "title": "Tezkor yordam",
+        "description": "AI repetitor har qanday savolingizga sodda tilda javob beradi."
+      }
+    },
+    "dashboard": {
+      "title": "O‘quv jarayoni",
+      "weekly": "Haftalik faollik",
+      "progress": "Kurs progressi",
+      "lesson": "Keyingi dars",
+      "lessonName": "Kimyoviy bog‘lanishlar",
+      "lab": "Yaqin tajriba",
+      "labName": "Neytrallash reaksiyasi"
+    }
+  },
+  "Teachers": {
+    "eyebrow": "O‘qituvchilar uchun",
+    "title": "Darsni tayyorlashga kamroq vaqt, tushuntirishga ko‘proq e’tibor",
+    "description": "Sinfni boshqaring, topshiriqlarni tayinlang va har bir o‘quvchining o‘zlashtirishini yagona paneldan kuzatib boring.",
+    "benefits": {
+      "engage": {
+        "title": "Darsni jonlantiring",
+        "description": "Murakkab reaksiyalarni katta ekranda xavfsiz namoyish qiling."
+      },
+      "time": {
+        "title": "Vaqtni tejang",
+        "description": "Tayyor ssenariylar, topshiriqlar va avtomatik tekshiruvdan foydalaning."
+      },
+      "insight": {
+        "title": "Har birini kuzating",
+        "description": "O‘quvchilar taraqqiyotini guruh va individual darajada ko‘ring."
+      },
+      "manage": {
+        "title": "Topshiriqlarni boshqaring",
+        "description": "Kurs, test va laboratoriya topshiriqlarini bir joydan yuboring."
+      }
+    },
+    "dashboard": {
+      "title": "9-A sinf tahlili",
+      "students": "O‘quvchilar",
+      "average": "O‘rtacha natija",
+      "active": "Faol o‘quvchilar",
+      "weekly": "Haftalik o‘zlashtirish",
+      "sample": "Namunaviy ma’lumot"
+    },
+    "cta": "O‘qituvchi vositalari yordamida o‘zlashtirishni 2 barobar tezroq baholang"
+  },
+  "Schools": {
+    "eyebrow": "Maktablar va muassasalar uchun",
+    "title": "Butun maktab uchun yagona raqamli kimyo muhiti",
+    "description": "O‘qituvchilar, sinflar va resurslarni markazlashgan holda boshqaring. Xavfsiz va byudjetni tejaydigan yechim.",
+    "benefits": {
+      "safety": {
+        "title": "Xavfsizlik birinchi o‘rinda",
+        "description": "Reaktivlar va murakkab laboratoriya jihozlari bilan ishlash xavfini kamaytiring."
+      },
+      "budget": {
+        "title": "Byudjetni optimallashtiring",
+        "description": "Qimmat sarf materiallari va jihozlar xarajatlarini qisqartiring."
+      },
+      "deploy": {
+        "title": "Oson joriy etish",
+        "description": "Brauzerda ishlaydi — har bir qurilmaga dastur o‘rnatish shart emas."
+      },
+      "analytics": {
+        "title": "Markazlashgan tahlil",
+        "description": "Maktab, sinf va o‘qituvchi darajasida hisobotlarni kuzating."
+      }
+    },
+    "cta": "Maktab uchun taqdimot olish"
+  },
+  "Testimonials": {
+    "eyebrow": "Fikrlar",
+    "title": "Kimyo endi qanday o‘rganiladi",
+    "description": "Platforma g‘oyasini sinab ko‘rgan ta’lim ishtirokchilarining namunaviy fikrlari.",
+    "badge": "Namunaviy kontent",
+    "disclaimer": "Bu fikrlar faqat dizayn namoyishi uchun yaratilgan va haqiqiy foydalanuvchilar fikri hisoblanmaydi.",
+    "items": {
+      "student": {
+        "quote": "Virtual laboratoriya mavzuni ko‘rgazmali tushuntirishga juda yordam berdi. Endi formulalarni yodlash o‘rniga jarayonni tasavvur qilaman.",
+        "name": "Namunaviy o‘quvchi",
+        "role": "11-sinf · Toshkent"
+      },
+      "teacher": {
+        "quote": "Darsda butun sinfga tajribani bir vaqtning o‘zida ko‘rsatish imkoniyati paydo bo‘ldi. Tushuntirish ancha samarali bo‘ldi.",
+        "name": "Namunaviy o‘qituvchi",
+        "role": "Kimyo fani o‘qituvchisi"
+      },
+      "school": {
+        "quote": "Yagona platforma reaktivlar xarajatini kamaytirish va o‘quv jarayoni xavfsizligini oshirishga yordam beradi.",
+        "name": "Namunaviy maktab rahbari",
+        "role": "Ta’lim muassasasi"
+      }
+    }
+  },
+  "Pricing": {
+    "eyebrow": "Narxlar",
+    "title": "Har bir o‘quvchi uchun mos tarif",
+    "description": "Bepul boshlang, ehtiyojingiz oshgan sari kengaytiring. Maktablar uchun maxsus shartlar mavjud.",
+    "monthly": "Oylik",
+    "yearly": "Yillik",
+    "save": "20% tejang",
+    "perMonth": "so‘m / oy",
+    "perStudent": "o‘quvchi uchun",
+    "custom": "Kelishuv asosida",
+    "popular": "Eng ommabop",
+    "billedYearly": "Yillik to‘lovda",
+    "note": "Narxlar demo maqsadida ko‘rsatilgan va yakuniy taklif hisoblanmaydi. QQS haqida alohida kelishiladi.",
+    "plans": {
+      "free": {
+        "name": "Boshlash",
+        "description": "Platforma bilan tanishish uchun",
+        "price": "0",
+        "features": {
+          "one": "Davriy jadval va 3D molekulalar",
+          "two": "3 ta tanishtiruv tajribasi",
+          "three": "AI repetitorga 20 ta savol",
+          "four": "1 ta boshlang‘ich kurs",
+          "five": "O‘quv natijalarini kuzatish"
+        },
+        "cta": "Bepul boshlash",
+        "yearlyPrice": "0"
+      },
+      "premium": {
+        "name": "Premium",
+        "description": "O‘quvchilar va mustaqil o‘rganuvchilar uchun",
+        "price": "79 000",
+        "features": {
+          "one": "Barcha virtual laboratoriyalar",
+          "two": "Cheksiz AI repetitor suhbatlari",
+          "three": "To‘liq kurslar kutubxonasi",
+          "four": "Shaxsiy taraqqiyot tahlili",
+          "five": "Yutuqlar va sertifikatlar"
+        },
+        "cta": "Premiumni tanlash",
+        "yearlyPrice": "63 200"
+      },
+      "school": {
+        "name": "Maktab",
+        "description": "Sinflar va ta’lim muassasalari uchun",
+        "price": "custom",
+        "features": {
+          "one": "O‘qituvchi va sinf panellari",
+          "two": "Topshiriq va test boshqaruvi",
+          "three": "Maktab darajasidagi tahlillar",
+          "four": "Yagona litsenziya va onboarding",
+          "five": "Ustuvor texnik yordam"
+        },
+        "cta": "Taklif olish",
+        "yearlyPrice": "custom"
+      }
+    },
+    "footnote": "Barcha tariflar 30 kunlik sinov muddati va bekor qilish imkoniyati bilan."
+  },
+  "Faq": {
+    "eyebrow": "Savol-javob",
+    "title": "Ko‘p beriladigan savollar",
+    "description": "Platforma, xavfsizlik va joriy etish bo‘yicha asosiy savollarga javoblar.",
+    "cta": "Boshqa savolingiz bormi?",
+    "questions": {
+      "what": {
+        "question": "MOLARYA UZ nima?",
+        "answer": "MOLARYA UZ — o‘quvchilar, o‘qituvchilar va maktablar uchun virtual kimyo laboratoriyasi va ta’lim platformasi. U nazariyani interaktiv tajribalar, 3D molekulalar va AI yordamchi bilan birlashtiradi."
+      },
+      "safe": {
+        "question": "Virtual laboratoriya xavfsizmi?",
+        "answer": "Ha. Tajribalar brauzerda modellashtiriladi, real reaktivlar ishlatilmaydi. Shu bilan birga, virtual natijalar real laboratoriya xavfsizligi qoidalarini almashtirmaydi."
+      },
+      "languages": {
+        "question": "Qaysi tillar mavjud?",
+        "answer": "Interfeys o‘zbek (lotin), rus va ingliz tillarida ishlaydi. Tilni istalgan sahifadan almashtirish mumkin."
+      },
+      "school": {
+        "question": "Maktab uchun qanday joriy etiladi?",
+        "answer": "Maktab tarifi o‘qituvchi va sinf panellarini, topshiriqlarni boshqarish va markazlashgan tahlillarni o‘z ichiga oladi. Joriy etish bosqichma-bosqich, onboarding yordami bilan amalga oshiriladi."
+      },
+      "ai": {
+        "question": "AI javoblari ishonchlimi?",
+        "answer": "AI repetitor o‘quv yordamchisi sifatida ishlaydi va xato qilishi mumkin. Muhim kimyoviy ma’lumotlarni darslik, o‘qituvchi yoki tasdiqlangan ilmiy manba bilan tekshirish tavsiya etiladi."
+      },
+      "free": {
+        "question": "Bepul foydalanish mumkinmi?",
+        "answer": "Ha, Boshlash tarifi platforma imkoniyatlari bilan tanishish uchun bepul. To‘liq laboratoriya va kurslar Premium tarifda taqdim etiladi."
+      },
+      "devices": {
+        "question": "Qanday qurilmalar kerak?",
+        "answer": "Zamonaviy brauzer va internet aloqasi yetarli. 3D molekulalar uchun WebGL qo‘llab-quvvatlanadigan qurilma tavsiya etiladi; WebGL bo‘lmasa, 2D ko‘rinish taqdim etiladi."
+      },
+      "data": {
+        "question": "Ma’lumotlar himoyasi qanday?",
+        "answer": "Platforma foydalanuvchi ma’lumotlarini minimal darajada yig‘ish va rolga asoslangan ruxsatlar tamoyiliga asoslanadi. To‘liq maxfiylik siyosati backend integratsiyasi bilan birga e’lon qilinadi."
+      }
+    }
+  },
+  "Cta": {
+    "eyebrow": "Bugun boshlang",
+    "title": "Kimyoni birgalikda kashf qilamiz",
+    "description": "Virtual laboratoriya, interaktiv molekulalar va AI yordamchi — barchasi bitta platformada.",
+    "primary": "Bepul boshlash",
+    "secondary": "Maktab uchun bog‘lanish",
+    "note": "Kredit karta talab qilinmaydi · 30 kunlik sinov"
+  },
+  "Pages": {
+    "about": {
+      "eyebrow": "Biz haqimizda",
+      "title": "Kimyo ta’limini yanada tushunarli qilamiz",
+      "description": "MOLARYA UZ O‘zbekiston o‘quvchilari uchun zamonaviy, xavfsiz va qiziqarli kimyo muhitini yaratish maqsadida ishlab chiqilmoqda.",
+      "metaTitle": "Biz haqimizda",
+      "metaDescription": "MOLARYA UZ missiyasi, qadriyatlari va O‘zbekiston kimyo ta’limi uchun yondashuvi bilan tanishing."
+    },
+    "features": {
+      "eyebrow": "Imkoniyatlar",
+      "title": "Har bir dars uchun to‘liq vositalar to‘plami",
+      "description": "Laboratoriya, vizualizatsiya, kurslar va tahlil — o‘quv jarayonining barcha bosqichlari bir joyda.",
+      "metaTitle": "Platforma imkoniyatlari",
+      "metaDescription": "Virtual laboratoriya, AI repetitor, 3D molekulalar, davriy jadval va o‘quv tahlili imkoniyatlarini o‘rganing."
+    },
+    "virtualLab": {
+      "eyebrow": "Virtual laboratoriya",
+      "title": "Xavfsiz muhitda haqiqiy tushuncha",
+      "description": "Tajribalarni brauzerda o‘tkazing, har bir qadamni kuzating va natijani kimyoviy tenglama bilan bog‘lang.",
+      "metaTitle": "Virtual kimyo laboratoriyasi",
+      "metaDescription": "MOLARYA UZ virtual laboratoriyasi: xavfsiz tajribalar, bosqichma-bosqich ssenariylar va ko‘rgazmali natijalar."
+    },
+    "chemistry": {
+      "eyebrow": "Kimyo o‘rganish",
+      "title": "Nazariyadan amaliyotgacha izchil yo‘l",
+      "description": "Mavzular, vizual modellar va virtual tajribalar yordamida kimyoni chuqur tushuning.",
+      "metaTitle": "Kimyo o‘rganish",
+      "metaDescription": "Kimyo mavzularini interaktiv vizualizatsiya va virtual tajribalar bilan o‘rganing."
+    },
+    "periodicTable": {
+      "eyebrow": "Davriy jadval",
+      "title": "Elementlar olamini bir qarashda",
+      "description": "Elementlarni qidiring, toifalar bo‘yicha filtrlang va xossalarini interaktiv tarzda o‘rganing.",
+      "metaTitle": "Interaktiv davriy jadval",
+      "metaDescription": "Kimyoviy elementlar, atom massalari, elektron konfiguratsiyalar va toifalar bo‘yicha interaktiv davriy jadval."
+    },
+    "molecules": {
+      "eyebrow": "3D molekulalar",
+      "title": "Tuzilishni uch o‘lchamda ko‘ring",
+      "description": "Molekulalarni aylantiring, atomlarni ajratib ko‘ring va bog‘lanishlarni fazoda o‘rganing.",
+      "metaTitle": "3D molekula galereyasi",
+      "metaDescription": "Suv, metan, karbonat angidrid va ammiak molekulalarini interaktiv 3D formatda o‘rganing."
+    },
+    "aiTutor": {
+      "eyebrow": "AI repetitor",
+      "title": "Savolingizga mos tushuntirish",
+      "description": "Kimyoviy tushunchalarni o‘z tilingizda, tushunarli qadamlar bilan o‘rganing.",
+      "metaTitle": "AI kimyo repetitori",
+      "metaDescription": "Kimyoviy savollarga o‘zbek, rus va ingliz tillarida tushuntirish beruvchi AI repetitor."
+    },
+    "courses": {
+      "eyebrow": "Kurslar",
+      "title": "Maqsadingizga mos kimyo kursi",
+      "description": "Maktab dasturidan universitetga tayyorgarlikgacha — tuzilgan darslar va amaliy topshiriqlar.",
+      "metaTitle": "Kimyo kurslari",
+      "metaDescription": "Maktab va universitet uchun tuzilgan kimyo kurslari, darslar va amaliy topshiriqlar."
+    },
+    "teachers": {
+      "eyebrow": "O‘qituvchilar uchun",
+      "title": "Darsingizni yanada samarali qiling",
+      "description": "Tayyor materiallar, sinf boshqaruvi va o‘quvchilar taraqqiyoti bo‘yicha aniq tahlillar.",
+      "metaTitle": "O‘qituvchilar uchun",
+      "metaDescription": "O‘qituvchilar uchun sinf boshqaruvi, topshiriqlar, virtual laboratoriya va o‘quv tahlili vositalari."
+    },
+    "schools": {
+      "eyebrow": "Maktablar uchun",
+      "title": "Maktabingizga zamonaviy kimyo muhiti",
+      "description": "Xavfsiz, tejamkor va markazlashgan yechim bilan butun maktabni raqamli ta’limga olib chiqing.",
+      "metaTitle": "Maktablar uchun yechim",
+      "metaDescription": "Maktablar uchun virtual kimyo laboratoriyasi, o‘qituvchi panellari va markazlashgan tahlillar."
+    },
+    "pricing": {
+      "eyebrow": "Narxlar",
+      "title": "Shaffof va moslashuvchan tariflar",
+      "description": "Bepul boshlang yoki maktabingiz uchun maxsus taklif oling.",
+      "metaTitle": "Narxlar",
+      "metaDescription": "MOLARYA UZ tariflari: bepul boshlash, Premium va maktablar uchun maxsus takliflar."
+    },
+    "contact": {
+      "eyebrow": "Aloqa",
+      "title": "Savolingiz bormi? Keling, gaplashamiz",
+      "description": "Hamkorlik, maktab joriy etish yoki platforma haqidagi savollaringizga javob beramiz.",
+      "metaTitle": "Aloqa",
+      "metaDescription": "MOLARYA UZ jamoasi bilan bog‘laning: hamkorlik, maktab joriy etish va qo‘llab-quvvatlash."
+    },
+    "faq": {
+      "eyebrow": "Savol-javob",
+      "title": "Barcha savollaringizga javob",
+      "description": "Platforma, xavfsizlik, tariflar va joriy etish haqida bilishingiz kerak bo‘lgan asosiy ma’lumotlar.",
+      "metaTitle": "Savol-javob",
+      "metaDescription": "MOLARYA UZ haqida ko‘p beriladigan savollar va javoblar."
+    },
+    "login": {
+      "eyebrow": "Xush kelibsiz",
+      "title": "Hisobingizga kiring",
+      "description": "O‘quv jarayonini davom ettirish uchun hisobingizga kiring.",
+      "metaTitle": "Kirish",
+      "metaDescription": "MOLARYA UZ hisobingizga kirish."
+    },
+    "register": {
+      "eyebrow": "Bepul boshlang",
+      "title": "Hisob yarating",
+      "description": "Bir necha daqiqada ro‘yxatdan o‘tib, virtual laboratoriyani sinab ko‘ring.",
+      "metaTitle": "Ro‘yxatdan o‘tish",
+      "metaDescription": "MOLARYA UZ da bepul hisob yarating."
+    },
+    "forgotPassword": {
+      "eyebrow": "Parolni tiklash",
+      "title": "Parolni unutdingizmi?",
+      "description": "Elektron pochta manzilingizni kiriting — tiklash havolasini yuboramiz.",
+      "metaTitle": "Parolni tiklash",
+      "metaDescription": "MOLARYA UZ hisobingiz parolini tiklang."
+    },
+    "resetPassword": {
+      "eyebrow": "Yangi parol",
+      "title": "Yangi parol o‘rnating",
+      "description": "Hisobingiz uchun xavfsiz yangi parol tanlang.",
+      "metaTitle": "Yangi parol",
+      "metaDescription": "MOLARYA UZ hisobi uchun yangi parol o‘rnating."
+    },
+    "verifyEmail": {
+      "eyebrow": "Tasdiqlash",
+      "title": "Elektron pochtangizni tasdiqlang",
+      "description": "Hisobingizni faollashtirish uchun pochtangizga yuborilgan havolani oching.",
+      "metaTitle": "Pochta manzilini tasdiqlash",
+      "metaDescription": "MOLARYA UZ hisobingiz uchun elektron pochta manzilini tasdiqlang."
+    },
+    "privacy": {
+      "eyebrow": "Maxfiylik",
+      "title": "Maxfiylik siyosati",
+      "description": "MOLARYA UZ qanday ma'lumotlarni qayta ishlashini va ularni qanday himoya qilinishini tushuntiradi.",
+      "metaTitle": "Maxfiylik siyosati",
+      "metaDescription": "MOLARYA UZ maxfiylik siyosati — ma'lumotlarni to'plash va himoya qilish tamoyillari.",
+      "updated": "Oxirgi yangilanish: 2026-yil, 1-yanvar. Hujjat demo maqsadida tayyorlangan.",
+      "intro": "Bu maxfiylik siyosati demo rejimida taqdim etilgan va platformaning ishga tushirilishidan oldingi bosqichni tasvirlaydi. Ishga tushirishdan oldin haqiqiy ma'lumot siyosati batafsil ko'rib chiqiladi.",
+      "sections": {
+        "collect": {
+          "title": "To'plangan ma'lumotlar",
+          "body": "Phase 1 da sayt faqat texnik ma'lumotlarni saqlaydi (til tanlovi cookie orqali). Yangiliklar va aloqa formalari real serverga yuborilmaydi va faqat brauzer xotirasida qoladi. Hisob ma'lumotlari backend ulanganda (Phase 2) qayta ishlanadi."
+        },
+        "use": {
+          "title": "Ma'lumotdan foydalanish",
+          "body": "To'plangan ma'lumotlar faqat platformaning ishlashi, til qulayligi va demo xususiyatlarni ko'rsatish uchun ishlatiladi. Ma'lumotlaringiz reklama maqsadida uchinchi tomonlarga berilmaydi."
+        },
+        "storage": {
+          "title": "Saqlash va xavfsizlik",
+          "body": "Demo rejimida ma'lumotlar faqat sizning brauzeringizda (localStorage) saqlanadi. Server qismi ulanishi bilan shifrlash va O'zbekiston qonunchiligiga mos infratuzilma qo'llanadi."
+        },
+        "rights": {
+          "title": "Sizning huquqlaringiz",
+          "body": "Siz o'z ma'lumotlaringizni ko'rish, tuzatish va o'chirishni so'rashga haqlisiz. So'rovlar hello@molarya.uz manzili orqali qabul qilinadi."
+        },
+        "contact": {
+          "title": "Aloqa",
+          "body": "Maxfiylik bo'yicha savollar uchun hello@molarya.uz manziliga yozing."
+        }
+      },
+      "back": "Bosh sahifaga qaytish"
+    },
+    "terms": {
+      "eyebrow": "Shartlar",
+      "title": "Foydalanish shartlari",
+      "description": "Platformadan foydalanish qoidalarining asosiy bayoni — ishga tushirishdan oldingi demo versiya.",
+      "metaTitle": "Foydalanish shartlari",
+      "metaDescription": "MOLARYA UZ foydalanish shartlari — platformadan foydalanish qoidalari.",
+      "updated": "Oxirgi yangilanish: 2026-yil, 1-yanvar. Hujjat demo maqsadida tayyorlangan.",
+      "intro": "Ushbu shartlar demo rejimida taqdim etiladi va ishga tushirilishidan keyin yakuniy yuridik ko'rib chiqishdan o'tadi.",
+      "sections": {
+        "accept": {
+          "title": "Shartlarni qabul qilish",
+          "body": "Platformadan foydalanish orqali siz ushbu shartlarni qabul qilgan hisoblanasiz. Demo bosqichida hech qanday to'lov yoki majburiy yuklama mavjud emas."
+        },
+        "use": {
+          "title": "Platformadan foydalanish",
+          "body": "Platforma ta'lim maqsadlarida bepul demo rejimida taqdim etiladi. Virtual tajribalar real laboratoriya xavfsizligi qoidalarini almashtirmaydi."
+        },
+        "content": {
+          "title": "Kontent va ma'lumotlar",
+          "body": "Kurslar, molekulalar va davriy jadval ma'lumotlari namunaviy sifatida taqdim etiladi va ta'limiy aniqlik uchun tekshiriladi. Ma'lumotlar birinchi navbatda o'quv maqsadlarida ishlatiladi."
+        },
+        "ip": {
+          "title": "Intellektual mulk",
+          "body": "Saytdagi dizayn, kod va materiallar MOLARYA UZga tegishli. Shaxsiy ta'lim maqsadida foydalanish ruxsat etilgan; tijorat maqsadida ko'chirish taqiqlangan."
+        },
+        "disclaimer": {
+          "title": "Javobgarlik cheklovi",
+          "body": "Platforma \"o'z holicha\" taqdim etiladi. Demo bosqichida xizmat uzilishlari va kontent o'zgarishlari mumkin."
+        },
+        "contact": {
+          "title": "Aloqa",
+          "body": "Shartlar bo'yicha savollar uchun hello@molarya.uz manziliga yozing."
+        }
+      },
+      "back": "Bosh sahifaga qaytish"
+    }
+  },
+  "About": {
+    "missionEyebrow": "Missiyamiz",
+    "missionTitle": "Har bir o‘quvchi kimyoni tushunishi mumkin",
+    "missionText": "Ko‘pchilik uchun kimyo murakkab formulalar va qo‘rqinchli belgilardan iborat ko‘rinadi. Biz esa uni ko‘rish, sinab ko‘rish va tushunish mumkin bo‘lgan fanga aylantirishni xohlaymiz. MOLARYA UZ shu g‘oya asosida yaratilmoqda.",
+    "values": {
+      "clarity": {
+        "title": "Aniqlik",
+        "description": "Har bir tushuncha sodda, izchil va tekshirilgan tarzda taqdim etiladi."
+      },
+      "safety": {
+        "title": "Xavfsizlik",
+        "description": "Virtual muhit tajriba qilish uchun xavfsiz maydon yaratadi."
+      },
+      "access": {
+        "title": "Hamma uchun ochiqlik",
+        "description": "Uch til, brauzerda ishlash va mos qurilmalar uchun qulay interfeys."
+      }
+    },
+    "approachEyebrow": "Yondashuv",
+    "approachTitle": "Mahalliy ehtiyojlar uchun yaratilgan",
+    "approachText": "Interfeys, kontent va o‘quv stsenariylari O‘zbekiston maktablari va oliy ta’lim muassasalari ehtiyojlarini hisobga olgan holda ishlab chiqiladi. Platforma xalqaro ilmiy standartlarga tayangan holda, mahalliy o‘quv dasturiga moslashadi."
+  },
+  "CourseCatalog": {
+    "badge": "Namunaviy kurslar",
+    "note": "Kurslar Phase 1 demo maqsadida taqdim etilgan. To‘liq katalog va dars kontenti keyingi bosqichda qo‘shiladi.",
+    "lessons": "{count} dars",
+    "duration": "{count} soat",
+    "level": "Daraja",
+    "levels": {
+      "beginner": "Boshlang‘ich",
+      "intermediate": "O‘rta",
+      "advanced": "Yuqori"
+    },
+    "sample": "Namunaviy",
+    "viewCourse": "Kursni ko‘rish",
+    "outcomes": "Nimalarni o‘rganasiz",
+    "syllabus": "Kurs dasturi",
+    "overview": "Kurs haqida",
+    "enroll": "Kursga yozilish",
+    "back": "Barcha kurslar",
+    "notFound": "Kurs topilmadi",
+    "notFoundDescription": "Siz izlagan kurs mavjud emas yoki o‘chirilgan.",
+    "demoNotice": "Kursga yozilish demo rejimida ishlamaydi. Hisob yaratgandan so‘ng kurslar ochiladi."
+  },
+  "Contact": {
+    "formTitle": "Xabar yuboring",
+    "formDescription": "Formani to‘ldiring — xabar elektron pochta ilovangiz orqali yuboriladi.",
+    "name": "To‘liq ism",
+    "namePlaceholder": "Ism va familiya",
+    "email": "Elektron pochta",
+    "emailPlaceholder": "ism@example.com",
+    "role": "Siz kim sifatida yozmoqdasiz?",
+    "roles": {
+      "student": "O‘quvchi",
+      "teacher": "O‘qituvchi",
+      "school": "Maktab / muassasa",
+      "other": "Boshqa"
+    },
+    "message": "Xabar",
+    "messagePlaceholder": "Savolingiz yoki taklifingizni yozing...",
+    "consent": "Ma’lumotlarimni so‘rovga javob berish uchun qayta ishlashga roziman.",
+    "submit": "Xabar yuborish",
+    "success": "Pochta ilovangiz ochildi. Agar ochilmagan bo‘lsa, hello@molarya.uz manziliga yozing.",
+    "demoNotice": "Hozircha forma email orqali ishlaydi; backend aloqa API’si Phase 2 da ulanadi.",
+    "validation": {
+      "name": "Kamida 2 ta belgi kiriting.",
+      "email": "To‘g‘ri elektron pochta manzilini kiriting.",
+      "message": "Kamida 10 ta belgi kiriting.",
+      "consent": "Davom etish uchun rozilik belgisini qo‘ying."
+    },
+    "info": {
+      "emailTitle": "Elektron pochta",
+      "email": "hello@molarya.uz",
+      "locationTitle": "Manzil",
+      "location": "Toshkent, O‘zbekiston",
+      "hoursTitle": "Ish vaqti",
+      "hours": "Dushanba–juma, 09:00–18:00 (UTC+5)"
+    }
+  },
+  "Auth": {
+    "loginTitle": "Kirish",
+    "loginDescription": "Elektron pochta va parolingizni kiriting.",
+    "emailPlaceholder": "ism@example.com",
+    "passwordPlaceholder": "Parolingiz",
+    "confirmPassword": "Parolni tasdiqlang",
+    "forgotPassword": "Parolni unutdingizmi?",
+    "remember": "Meni eslab qol",
+    "submitLogin": "Kirish",
+    "noAccount": "Hisobingiz yo‘qmi?",
+    "createAccount": "Ro‘yxatdan o‘tish",
+    "registerTitle": "Hisob yaratish",
+    "registerDescription": "Bepul boshlang. Kredit karta talab qilinmaydi.",
+    "fullName": "To‘liq ism",
+    "fullNamePlaceholder": "Ism va familiya",
+    "roleLabel": "Rolni tanlang",
+    "roles": {
+      "student": "O‘quvchi",
+      "teacher": "O‘qituvchi"
+    },
+    "terms": "Foydalanish shartlari va maxfiylik siyosatiga roziman.",
+    "submitRegister": "Hisob yaratish",
+    "hasAccount": "Hisobingiz bormi?",
+    "signIn": "Kirish",
+    "or": "yoki",
+    "continueWithGoogle": "Google bilan davom etish",
+    "continueWithTelegram": "Telegram bilan davom etish",
+    "demoNotice": "Demo rejimi: autentifikatsiya backend Phase 2 da ulanadi. Forma faqat validatsiyani tekshiradi.",
+    "loginSuccess": "Demo: kirish so‘rovi qabul qilindi. Backend hali ulanmagan.",
+    "registerSuccess": "Demo: ro‘yxatdan o‘tish so‘rovi qabul qilindi. Backend hali ulanmagan.",
+    "forgotTitle": "Parolni tiklash",
+    "forgotDescription": "Pochtangizga tiklash havolasini yuboramiz.",
+    "sendResetLink": "Havolani yuborish",
+    "forgotSuccess": "Demo: tiklash havolasi so‘rovi qayd etildi. Backend hali ulanmagan.",
+    "backToLogin": "Kirishga qaytish",
+    "resetTitle": "Yangi parol",
+    "resetDescription": "Kamida 8 ta belgidan iborat xavfsiz parol tanlang.",
+    "newPassword": "Yangi parol",
+    "submitReset": "Parolni yangilash",
+    "resetSuccess": "Demo: parol yangilash so‘rovi qayd etildi.",
+    "verifyTitle": "Pochtani tasdiqlang",
+    "verifyDescription": "Tasdiqlash havolasi {email} manziliga yuborildi deb hisoblaymiz.",
+    "verifyHint": "Havolani ochmadingizmi? Pochtangizning spam papkasini tekshiring yoki qayta yuboring.",
+    "resend": "Havolani qayta yuborish",
+    "resendSuccess": "Demo: qayta yuborish so‘rovi qayd etildi.",
+    "validation": {
+      "email": "To‘g‘ri elektron pochta manzilini kiriting.",
+      "password": "Parol kamida 8 ta belgidan iborat bo‘lishi kerak.",
+      "passwordMatch": "Parollar bir xil bo‘lishi kerak.",
+      "name": "Kamida 2 ta belgi kiriting.",
+      "terms": "Davom etish uchun shartlarga rozilik bildiring."
+    }
+  },
+  "NotFound": {
+    "eyebrow": "404 xatosi",
+    "title": "Bu sahifa topilmadi",
+    "description": "Siz izlagan sahifa ko‘chirilgan, nomi o‘zgargan yoki hech qachon mavjud bo‘lmagan bo‘lishi mumkin.",
+    "cta": "Bosh sahifaga qaytish",
+    "secondary": "Aloqa bilan bog‘lanish"
+  },
+  "Error": {
+    "eyebrow": "Kutilmagan xato",
+    "title": "Nimadir xato ketdi",
+    "description": "Sahifani yuklashda muammo yuz berdi. Qayta urinib ko‘ring yoki bosh sahifaga qayting.",
+    "retry": "Qayta urinish",
+    "cta": "Bosh sahifa"
+  },
+  "Loading": {
+    "title": "Sahifa yuklanmoqda",
+    "description": "Bir necha soniya kuting..."
+  },
+  "CourseDetail": {
+    "notFound": "Kurs topilmadi",
+    "back": "Barcha kurslar",
+    "overview": "Kurs haqida",
+    "outcomes": "Nimalarni o‘rganasiz",
+    "syllabus": "Kurs dasturi",
+    "enroll": "Kursga yozilish",
+    "demoNotice": "Kursga yozilish demo rejimida mavjud emas. Hisob yaratish orqali platformani sinab ko‘ring.",
+    "metaDescription": "{title} — MOLARYA UZ kimyo kursi. {description}"
+  }
+}
